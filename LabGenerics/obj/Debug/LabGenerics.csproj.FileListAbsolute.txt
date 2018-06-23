@@ -1,0 +1,7 @@
+D:\nemis\c# tasks\LabGenerics\LabGenerics\bin\Debug\LabGenerics.exe.config
+D:\nemis\c# tasks\LabGenerics\LabGenerics\bin\Debug\LabGenerics.exe
+D:\nemis\c# tasks\LabGenerics\LabGenerics\bin\Debug\LabGenerics.pdb
+D:\nemis\c# tasks\LabGenerics\LabGenerics\obj\Debug\LabGenerics.csprojResolveAssemblyReference.cache
+D:\nemis\c# tasks\LabGenerics\LabGenerics\obj\Debug\LabGenerics.csproj.CoreCompileInputs.cache
+D:\nemis\c# tasks\LabGenerics\LabGenerics\obj\Debug\LabGenerics.exe
+D:\nemis\c# tasks\LabGenerics\LabGenerics\obj\Debug\LabGenerics.pdb
